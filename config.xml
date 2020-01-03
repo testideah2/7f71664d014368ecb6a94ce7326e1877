@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.mustfly.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>Секс шоп MUST FLY</name>
 
@@ -41,12 +41,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/43757ec46697ac98f308183f0510f1e5.png" density="ldpi" />
-        <icon src="res/android/icon/a01fe83b72d87040a54c5bdb63d6c52d.png" density="mdpi" />
-        <icon src="res/android/icon/bb0808958f42dc08b0dab2ab210a4fe3.png" density="hdpi" />
-        <icon src="res/android/icon/95f7079b1d9b76ab83feabd00297890d.png" density="xhdpi" />
-        <icon src="res/android/icon/d358fdc70283f09c3b4cfdf2dde4aecb.png" density="xxhdpi" />
-        <icon src="res/android/icon/d2ceeb90091cef72b912112570b9e280.png" density="xxxhdpi" />
+        <icon src="res/android/icon/7e96411eec503223777662aa6b1af94a.png" density="ldpi" />
+        <icon src="res/android/icon/5e0d3417d6106ccabec5c6694f9e373d.png" density="mdpi" />
+        <icon src="res/android/icon/b2a0bcf525e1ea1c12e564ac3e260d78.png" density="hdpi" />
+        <icon src="res/android/icon/05cd4c531044d22d62d771c9e3233047.png" density="xhdpi" />
+        <icon src="res/android/icon/709640a5afc83bd15f6f779869487ee7.png" density="xxhdpi" />
+        <icon src="res/android/icon/a226039853f176c3f1ab92b1843efadb.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/5853aa56298f7c7c3b7387ad1684de0a.png" density="port-hdpi"/>
         <splash src="res/android/screen/fde68ad83b83cc9e2a73e43e7927bb99.png" density="port-ldpi"/>
